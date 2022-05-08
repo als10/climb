@@ -1,6 +1,8 @@
 # Climb
 An Android game with simple controls, in which a player must climb up a building without clicking in the wrong direction. All in-game graphics were self-designed. The game was developed using Unity.
 
+**Note**: This repository contains all the C# scripts used for the game.
+
 ## Gameplay
 https://youtu.be/1PmVkmvKLH0
 
